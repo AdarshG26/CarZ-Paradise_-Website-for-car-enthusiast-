@@ -1,0 +1,1 @@
+Animataed landing page for car service shop using HTML, CSS, JavaScript and GSAP for animations also created a custom cursor.
